@@ -5,3 +5,5 @@ The file was updated locally.
 THIS LINE WAS ADDED IN FEATURE-2 BRANCH.
 
 And another small modification in FEATURE-2 branch.
+
+Edited in the branch-2.
